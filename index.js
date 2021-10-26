@@ -95,7 +95,7 @@ async function Done(){
 }
 
 //Main
-if(Self_Args.length == 0){
+if(!Self_Args.length){
     console.log(`node index.js <ip>
 Example: node index.js 0.0.0.0`)
     process.exit()
