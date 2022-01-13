@@ -3,8 +3,7 @@
 <h4 align="center">Search your IP in multiple search engines at once to see If It's leaked</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/Is_IP_Leaked/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/Is_IP_Leaked?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/Is_IP_Leaked"><img src="https://bettercodehub.com/edge/badge/I2rys/Is_IP_Leaked?branch=main"></a>
-				<a href="https://github.com/I2rys/Is_IP_Leaked"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
+	<a href="https://github.com/I2rys/Is_IP_Leaked"><img src="https://img.shields.io/badge/version-1.0.0-orange"></img></a>
 	<a href="https://github.com/I2rys/Is_IP_Leaked/issues"><img src="https://img.shields.io/github/issues/I2rys/Is_IP_Leaked.svg"></img></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
